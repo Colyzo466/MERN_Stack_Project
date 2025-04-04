@@ -67,7 +67,7 @@ Make sure you have the following installed:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/mern-stack-project.git
+git clone https://github.com/Colyzo466/mern-stack-project.git
 cd mern-stack-project
 ```
 
@@ -122,7 +122,4 @@ Contributions are welcome! Feel free to open issues or create pull requests.
 
 ## 📜 License
 This project is licensed under the MIT License.
-
----
-Feel free to modify this README according to your project requirements!
 
